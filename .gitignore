@@ -215,3 +215,4 @@ CSE573_Project2.pdf
 # Generated
 data/
 outputs/
+inpaint_metrics.json
